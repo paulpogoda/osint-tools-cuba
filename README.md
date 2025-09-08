@@ -98,7 +98,7 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 
 ---
 
-## 👥 People, Phones, Social etc.
+## People, Phones, Social etc.
 
 ### Genealogy & Historical Records
 - **[FamilySearch Cuba Records](https://www.familysearch.org/en/wiki/Cuba_Quick_Start_Guide)** - Genealogical records, parish records, and family history resources
@@ -140,7 +140,6 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 ## 🌐 WHOIS
 
 ### Domain Registration
-- **[.CU WHOIS Search - EuroDNS](https://www.eurodns.com/whois-lookup/cu-domain)** - Official .cu domain WHOIS lookup service
 - **[.CU Domain Registry (NIC.cu)](http://www.nic.cu)** - Official Cuban domain registry and registration authority
 - **[.CU WHOIS Lookup - EuropeID](https://europeid.com/domains/north-and-central-america/cuba/register-cu/)** - Alternative WHOIS lookup for Cuban domains
 
@@ -148,10 +147,6 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 - **[Cuban Website Search](https://www.google.com/search?q=site:.cu)** - Google search for .cu websites and Cuban online presence
 - **[DomainTools - Cuba](https://whois.domaintools.com/.cu)** - Advanced WHOIS and domain intelligence for .cu domains
 - **[SecurityTrails - .cu domains](https://securitytrails.com/domain/.cu/dns)** - DNS history and domain security information
-
-### Website Analysis
-- **[Archive.org - Cuban Sites](https://web.archive.org)** - Historical snapshots of Cuban websites and digital archives
-- **[Shodan - Cuba](https://www.shodan.io/search?query=country:CU)** - Internet-connected devices and services in Cuba
 
 ---
 
