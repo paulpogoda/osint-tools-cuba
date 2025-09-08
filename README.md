@@ -212,16 +212,7 @@ site:facebook.com "Cuba" "empresa" - Facebook business pages
 
 ---
 
-## 📝 Contributing
-
-To contribute to this resource list:
-1. Verify all links are functional and provide accurate information
-2. Ensure resources are publicly accessible (no paid subscription required)
-3. Follow the established category structure
-4. Include brief descriptions of each resource's utility
-5. Test accessibility from multiple geographical locations
-
-## 📞 Support
+## Support
 
 For questions about specific resources or to report broken links, please create an issue in this repository.
 
