@@ -39,7 +39,7 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
  - [Cadastral and other Maps](#maps)
  - [Vehicles](#vehicles)
  - [People, phones, social etc.](#people)
- - [Public procurements](#public-procurement)
+ - [Public procurements](#public-procurements)
  - [WHOIS](#whois)
  - [Appendix](#appendix)
 
