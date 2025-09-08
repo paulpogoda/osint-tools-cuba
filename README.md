@@ -4,7 +4,7 @@
 
 ## Overview
 
-This repository contains a comprehensive collection of Open Source Intelligence (OSINT) resources specifically curated for investigations in Cuba. All resources have been validated and organized following the OSINT-for-Countries-V2.0 framework.
+This repository contains a comprehensive collection of Open Source Intelligence (OSINT) resources specifically curated for investigations in Cuba. Most of the sources are in Spanish. All resources have been validated and organized following the OSINT-for-Countries-V2.0 framework.
 
 **Last Updated:** September 2025  
 **Total Resources:** 45+ verified links  
