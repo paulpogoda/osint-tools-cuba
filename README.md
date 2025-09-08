@@ -6,6 +6,26 @@
 
 This repository contains a comprehensive collection of Open Source Intelligence (OSINT) resources specifically curated for investigations in Cuba. Most of the sources are in Spanish. All resources have been validated and organized following the OSINT-for-Countries-V2.0 framework.
 
+## ⚠️ Important Notes
+
+### Access Limitations
+- Many official registries require in-person visits to municipal offices
+- Cuban Civil Registration Office does not respond to international requests
+- Internet connectivity in Cuba may affect website accessibility
+- Some resources may have limited English language support
+
+### Legal Considerations
+- US persons should consult OFAC regulations before engaging with Cuban entities
+- Some business directories may contain outdated information
+- Always verify information through multiple sources
+
+### Data Quality
+- Government statistics may have reporting delays
+- Private sector data availability is limited
+- Cross-reference information when possible
+
+---
+
 **Last Updated:** September 2025  
 **Total Resources:** 45+ verified links  
 **Coverage:** National level with regional capabilities where available
@@ -189,26 +209,6 @@ site:facebook.com "Cuba" "empresa" - Facebook business pages
 "Registro Mercantil" Cuba filetype:pdf - Registry documents
 "Gaceta Oficial" Cuba 2024 - Recent official publications
 ```
-
----
-
-## ⚠️ Important Notes
-
-### Access Limitations
-- Many official registries require in-person visits to municipal offices
-- Cuban Civil Registration Office does not respond to international requests
-- Internet connectivity in Cuba may affect website accessibility
-- Some resources may have limited English language support
-
-### Legal Considerations
-- US persons should consult OFAC regulations before engaging with Cuban entities
-- Some business directories may contain outdated information
-- Always verify information through multiple sources
-
-### Data Quality
-- Government statistics may have reporting delays
-- Private sector data availability is limited
-- Cross-reference information when possible
 
 ---
 
