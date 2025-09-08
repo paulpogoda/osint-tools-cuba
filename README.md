@@ -6,13 +6,12 @@
 
 This repository contains a comprehensive collection of Open Source Intelligence (OSINT) resources specifically curated for investigations in Cuba. All resources have been validated and organized following the OSINT-for-Countries-V2.0 framework.
 
-## Contributions
-Feel free to join this project — [OSINT For Countries V2.0](https://github.com/paulpogoda/OSINT-for-countries-V2.0)
-
-
 **Last Updated:** September 2025  
 **Total Resources:** 45+ verified links  
 **Coverage:** National level with regional capabilities where available
+
+## Contributions
+Feel free to join this project — [OSINT For Countries V2.0](https://github.com/paulpogoda/OSINT-for-countries-V2.0)
 
 ## Table of contents:
  - [Open Data portals](#open-data-portals)
