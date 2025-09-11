@@ -70,7 +70,7 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 - **[Registry of Exporters and Importers](http://www.camaracuba.cu)** - Official registry for companies authorized to conduct import/export activities
 
 ### Company Directories & Databases
-- **[Directoriocubano.info](https://www.directoriocubano.info)** - Directory of Cuban companies with contact information and business details
+- **[Directoriocubano.info](https://en.directoriocubano.info/empresas/)** - Directory of Cuban companies with contact information and business details
 - **[List of Notable Companies of Cuba - Wikipedia](https://en.wikipedia.org/wiki/List_of_companies_of_Cuba)** - Comprehensive list of major Cuban corporations and state enterprises
 
 ### Sanctions & Restricted Lists
