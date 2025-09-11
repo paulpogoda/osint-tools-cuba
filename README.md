@@ -60,6 +60,9 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 ### Official Publications
 - **[Gaceta Oficial de la República de Cuba](https://www.gacetaoficial.gob.cu)** - Official government gazette for legal notices, regulations, and company announcements
 
+### Sanctions & Watch Lists
+- **[OpenSanctions Cuba Entities](https://www.opensanctions.org/programs/US-CUBA/)** - Sanctioned individuals, PEPs, and associates (1,464+ entities)
+
 ---
 
 ## Legal Entities
@@ -124,6 +127,7 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 - **[Cuban Genealogy Club of Miami](https://www.cubangenclub.org)** - Extensive genealogical databases and research resources
 - **[Cuba Research Project](https://cubaresearchproject.org)** - Demographic data and genealogical information collection
 - **[Enrique Hurtado de Mendoza Collection](https://cubangenealogy.org)** - Comprehensive Cuban genealogical information archive
+- **[Database of Deaths and Disappearances](https://cubaarchive.org)** - Documentation of documented deaths and disappearances
 
 ### People Search & Social Media
 - **[Main Job Portals in Cuba](https://www.computrabajo.com.cu)** - Professional profiles and employment information
@@ -131,14 +135,7 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
   - [Acciontrabajo Cuba](https://cuba.acciontrabajo.com.ve)
   - [CubaJobs.net](https://cubajobs.net)
   - [Jobomas Cuba](https://cu.jobomas.com)
-  - Try [OSINT Industries](https://app.osint.industries) and don't forget about the [Digital Profiler's Toolkit](https://github.com/paulpogoda/Digital-Profiler-s-Toolkit)
-
-### Sanctions & Watch Lists
-- **[OpenSanctions Cuba Entities](https://www.opensanctions.org/programs/US-CUBA/)** - Sanctioned individuals, PEPs, and associates (1,464+ entities)
-- **[Database of Deaths and Disappearances](https://cubaarchive.org)** - Documentation of documented deaths and disappearances
-
-### Phone & Address Directories
-- **[Cuban Addresses and Telephones Directory](https://www.cubangenclub.org/databases/address/)** - Historical telephone and address information for genealogical research
+- Try [OSINT Industries](https://app.osint.industries) and don't forget about the [Digital Profiler's Toolkit](https://github.com/paulpogoda/Digital-Profiler-s-Toolkit)
 
 ---
 
