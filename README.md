@@ -157,19 +157,14 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 
 ## Appendix
 
-### Research & Analysis
 - **[CIA World Factbook - Cuba](https://www.cia.gov/the-world-factbook/countries/cuba/)** - Comprehensive country profile and intelligence information
-- **[US State Department Reports - Cuba](https://www.state.gov/countries-areas/cuba/)** - Official US government reports and diplomatic information
-- **[WikiLeaks - Cuba](https://wikileaks.org/plusd/?qproject%5B%5D=cg&q=%23cuba)** - Diplomatic cables and leaked documents related to Cuba
-
-### Academic & Legal Resources
 - **[Cuba Country Profile - Cuban Research Institute](https://cri.fiu.edu)** - Academic research and policy analysis on Cuba
 - **[UNESCO Cuba Reports](https://en.unesco.org/countries/cuba)** - Educational, scientific, and cultural information
 
-### Corruption & Transparency
-- **[Corruption in Cuba - Overview](https://knowledgehub.transparency.org/helpdesk/cuba-overview-of-corruption-and-anti-corruption)** - Analysis of corruption patterns and anti-corruption efforts
 - **[Transparency International - Cuba](https://www.transparency.org/en/countries/cuba)** - Corruption perception index and governance data
 - **[State of Social Rights in Cuba](https://www.escr-net.org/resources/cuba-state-social-rights)** - Human rights and social conditions analysis
+
+- **[WikiLeaks - Cuba](https://wikileaks.org/plusd/?qproject%5B%5D=cg&q=%23cuba)** - Diplomatic cables and leaked documents related to Cuba
 
 ---
 
