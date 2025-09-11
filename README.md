@@ -117,7 +117,7 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 - **[Wikimedia Aircraft registered in Cuba](https://commons.wikimedia.org/wiki/Category:Aircraft_registered_in_Cuba)** - Main international airport with aircraft movement records
 - **[Airhistory | Civil Aircraft Register - Cuba](http://www.airhistory.org.uk/gy/reg_NM-.html)**
 - **[Cuba Aircraft List on Military Factory](https://www.militaryfactory.com/aircraft/by-country.php?Nation=Cuba)**
-- **[Cubana at Planespotters](https://www.planespotters.net/airline/Cubana)
+- **[Cubana at Planespotters](https://www.planespotters.net/airline/Cubana)**
 ---
 
 ## People, Phones, Social etc.
@@ -147,10 +147,6 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 - **[GlobalTenders - Cuba](https://www.globaltenders.com/cuba)** - International bid invitations and procurement notices
 - **[Cuba Public Contracts Database](https://cubacontractors.com)** - Database of government contracts and suppliers
 
-### Procurement Analysis
-- **[UN Procurement Division - Cuba](https://www.un.org/Depts/ptd/suppliers)** - UN agency procurement activities and contract awards in Cuba
-- **[World Bank Projects - Cuba](https://projects.worldbank.org/en/projects-operations/projects-summary?countrycode_exact=CU)** - Development project contracts and procurement information
-
 ---
 
 ## 🌐 WHOIS
@@ -176,10 +172,10 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 ### Academic & Legal Resources
 - **[Cuba Country Profile - Cuban Research Institute](https://cri.fiu.edu)** - Academic research and policy analysis on Cuba
 - **[UNESCO Cuba Reports](https://en.unesco.org/countries/cuba)** - Educational, scientific, and cultural information
-- **[Transparency International - Cuba](https://www.transparency.org/en/countries/cuba)** - Corruption perception index and governance data
 
 ### Corruption & Transparency
 - **[Corruption in Cuba - Overview](https://knowledgehub.transparency.org/helpdesk/cuba-overview-of-corruption-and-anti-corruption)** - Analysis of corruption patterns and anti-corruption efforts
+- **[Transparency International - Cuba](https://www.transparency.org/en/countries/cuba)** - Corruption perception index and governance data
 - **[State of Social Rights in Cuba](https://www.escr-net.org/resources/cuba-state-social-rights)** - Human rights and social conditions analysis
 
 ---
