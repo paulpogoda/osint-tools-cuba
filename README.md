@@ -94,6 +94,7 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 - **[Perry-Castañeda Map Collection - Cuba](https://maps.lib.utexas.edu/maps/cuba.html)** - Historical maps, CIA maps, and geographic resources
 - **[Google Earth - Cuba](https://earth.google.com/web/@21.5,-79.5,0a,2000000d,35y,0h,0t,0r)** - Satellite imagery and geographic information system
 - **[Cuban Genealogy Club Land Records](https://www.cubangenclub.org/databases/land/)** - Historical land records and matriculas from Spanish archives
+- **[Cuba on OpenStreetMaps](https://www.openstreetmap.org/#map=6/21.567/-79.543)
 
 ---
 
