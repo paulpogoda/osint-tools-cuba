@@ -150,15 +150,8 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 ---
 
 ## 🌐 WHOIS
-
-### Domain Registration
 - **[.CU Domain Registry (NIC.cu)](http://www.nic.cu)** - Official Cuban domain registry and registration authority
 - **[.CU WHOIS Lookup - EuropeID](https://europeid.com/domains/north-and-central-america/cuba/register-cu/)** - Alternative WHOIS lookup for Cuban domains
-
-### Domain Intelligence
-- **[Cuban Website Search](https://www.google.com/search?q=site:.cu)** - Google search for .cu websites and Cuban online presence
-- **[DomainTools - Cuba](https://whois.domaintools.com/.cu)** - Advanced WHOIS and domain intelligence for .cu domains
-- **[SecurityTrails - .cu domains](https://securitytrails.com/domain/.cu/dns)** - DNS history and domain security information
 
 ---
 
@@ -186,7 +179,7 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 ```
 site:gacetaoficial.gob.cu "empresa" - Search official gazette for company mentions
 site:.cu "empresa" "contacto" "producto" - Find Cuban company websites
-site:onei.gob.cu filetype:pdf - Access ONEI statistical reports
+site:onei.gob.cu filetype:pdf - Access statistical reports
 inurl:registro site:.cu - Find registry-related pages
 ```
 
@@ -194,12 +187,6 @@ inurl:registro site:.cu - Find registry-related pages
 ```
 site:linkedin.com "Cuba" "company" - LinkedIn company profiles
 site:facebook.com "Cuba" "empresa" - Facebook business pages
-```
-
-### Advanced Searches
-```
-"Registro Mercantil" Cuba filetype:pdf - Registry documents
-"Gaceta Oficial" Cuba 2024 - Recent official publications
 ```
 
 ---
