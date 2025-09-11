@@ -94,14 +94,13 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 - **[Perry-Castañeda Map Collection - Cuba](https://maps.lib.utexas.edu/maps/cuba.html)** - Historical maps, CIA maps, and geographic resources
 - **[Google Earth - Cuba](https://earth.google.com/web/@21.5,-79.5,0a,2000000d,35y,0h,0t,0r)** - Satellite imagery and geographic information system
 - **[Cuban Genealogy Club Land Records](https://www.cubangenclub.org/databases/land/)** - Historical land records and matriculas from Spanish archives
-- **[Cuba on OpenStreetMaps](https://www.openstreetmap.org/#map=6/21.567/-79.543)
+- **[Cuba on OpenStreetMaps](https://www.openstreetmap.org/#map=6/21.567/-79.543)**
 
 ---
 
 ## Vehicles
 
 ### Land Vehicle Registration
-- **[Cuban Vehicle Registration System](https://en.cibercuba.com/noticias/2024-04-21-u1-e43231-s27061-nid280754-preven-mayo-nuevo-proceso-inscripcion-vehiculos)** - New registration process for vehicles assembled by parts (VAP)
 - **[Ministry of Interior Vehicle Registry](http://www.minint.gob.cu)** - Official vehicle registration offices for license plates and documentation
 - **[Vehicle Registration Plates System](https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Cuba)** - Current plate system introduced in 2013 (format: A 123 456)
 
@@ -109,12 +108,12 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 - **[Cuban Registry of Ships (GEMAR)](https://www.gemar.transnet.cu/en/empresas/cuban-registry-ships)** - Official ship registry and maritime safety classification society
 - **[Administración Marítima de Cuba (AMC)](https://amc.mitrans.gob.cu)** - Maritime administration coordinating sea transport and port infrastructure
 - **[TrustedDocks - Cuban Vessels](https://www.trusteddocks.com/catalog/vessels/country/58-cuba)** - Database of vessels registered under Cuban flag
-- **[IMO Cuba Contact](https://wwwcdn.imo.org/localresources/en/OurWork/HumanElement/Documents/rptPartyAddresses.pdf)** - Ministry of Transport maritime safety and inspection division (DSIM@Mitrans.co.cu)
 
 ### Aviation
 - **[Instituto de Aeronáutica Civil de Cuba (IACC)](http://www.iacc.avianet.cu)** - Civil aviation authority for aircraft registration and certification
-- **[Jose Marti International Airport Authority](http://www.aeropuerto-habana.cu)** - Main international airport with aircraft movement records
-
+- **[Wikimedia Aircraft registered in Cuba](https://commons.wikimedia.org/wiki/Category:Aircraft_registered_in_Cuba)** - Main international airport with aircraft movement records
+- **[Airhistory | Civil Aircraft Register - Cuba](http://www.airhistory.org.uk/gy/reg_NM-.html)**
+- **[Cuba Aircraft List on Military Factory](https://www.militaryfactory.com/aircraft/by-country.php?Nation=Cuba)**
 ---
 
 ## People, Phones, Social etc.
