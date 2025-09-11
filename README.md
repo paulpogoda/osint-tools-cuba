@@ -83,7 +83,7 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 
 ### Property Registry System
 - **[Land Title Registration System Overview](https://ascecubadatabase.org/asce_proceedings/land-title-registration-in-cuba-past-present-and-future/)** - Comprehensive analysis of Cuba's property registration system and legal framework
-- **[Cuban Property Registry (Registro de la Propiedad y Mercantil)](https://www.minjus.gob.cu)** - Official property registry (municipal offices, in-person access required)
+- **[Cuban Property Registry (Registro de la Propiedad y Mercantil)](https://www.minjus.gob.cu/es/servicios/registro-de-la-propiedad)** - Official property registry (municipal offices, in-person access required)
 
 ### Real Estate & Property Listings
 - **[Inmobiliaria Cubana](https://inmobiliariacubana.com)** - Cuban real estate listings and property information
