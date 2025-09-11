@@ -65,8 +65,8 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 ## Legal Entities
 
 ### Business Registry System
-- **[Del Ministro de Justicia - Registro Mercantil](https://www.minjus.gob.cu)** - Official commercial registry managed by Ministry of Justice (in-person requests required)
-- **[Cuban Chamber of Commerce Business Register](https://companyformationcuba.com/business-register-in-cuba/)** - Registration requirements for foreign companies, importers/exporters, and travel agencies
+- **[Del Ministro de Justicia - Registro Mercantil](https://www.minjus.gob.cu/es/servicios/registro-mercantil)** - Official commercial registry managed by Ministry of Justice (in-person requests required)
+- **[Cuban Chamber of Commerce Business Register](https://companyformationcuba.com/business-register-in-cuba/)** - Registration requirements for foreign companies, importers/exporters, and travel agencies (Unavailable on Sept 11, 2025)
 - **[Registry of Exporters and Importers](http://www.camaracuba.cu)** - Official registry for companies authorized to conduct import/export activities
 
 ### Company Directories & Databases
