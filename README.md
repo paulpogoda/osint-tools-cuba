@@ -114,6 +114,7 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 - **[Wikimedia Aircraft registered in Cuba](https://commons.wikimedia.org/wiki/Category:Aircraft_registered_in_Cuba)** - Main international airport with aircraft movement records
 - **[Airhistory | Civil Aircraft Register - Cuba](http://www.airhistory.org.uk/gy/reg_NM-.html)**
 - **[Cuba Aircraft List on Military Factory](https://www.militaryfactory.com/aircraft/by-country.php?Nation=Cuba)**
+- **[Cubana at Planespotters](https://www.planespotters.net/airline/Cubana)
 ---
 
 ## People, Phones, Social etc.
