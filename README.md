@@ -73,10 +73,9 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 ### Company Directories & Databases
 - **[Directoriocubano.info](https://www.directoriocubano.info)** - Directory of Cuban companies with contact information and business details
 - **[List of Notable Companies of Cuba - Wikipedia](https://en.wikipedia.org/wiki/List_of_companies_of_Cuba)** - Comprehensive list of major Cuban corporations and state enterprises
-- **[LinkedIn Company Search](https://www.linkedin.com/search/results/companies/?geoUrn=%5B%22103644278%22%5D)** - Professional network data on Cuban companies and employees
 
 ### Sanctions & Restricted Lists
-- **[US State Department Cuba Restricted List](https://www.state.gov/cuba-restricted-list/list-of-restricted-entities-and-subentities-associated-with-cuba/)** - Entities controlled by Cuban military, intelligence, or security services
+- **[US State Department Cuba Restricted List](https://www.state.gov/division-for-counter-threat-finance-and-sanctions/cuba-restricted-list)** - Entities controlled by Cuban military, intelligence, or security services
 - **[Cuba Prohibited Accommodations List](https://www.state.gov/cuba-prohibited-accommodations-list/)** - Hotels and accommodations prohibited for US persons
 
 ---
