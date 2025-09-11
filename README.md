@@ -14,16 +14,13 @@ This repository contains a comprehensive collection of Open Source Intelligence 
 - Internet connectivity in Cuba may affect website accessibility
 - Some resources may have limited English language support
 
-### Legal Considerations
-- US persons should consult OFAC regulations before engaging with Cuban entities
-- Some business directories may contain outdated information
-- Always verify information through multiple sources
-
 ### Data Quality
 - Government statistics may have reporting delays
+- Some business directories may contain outdated information
 - Private sector data availability is limited
 - Cross-reference information when possible
-
+- Always verify information through multiple sources
+  
 ---
 
 **Last Updated:** September 2025  
